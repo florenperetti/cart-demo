@@ -7,7 +7,6 @@ const pwaArgs = {
 }
 
 module.exports = {
-  publicPath: 'cart-demo',
   chainWebpack: config => {
     config.plugin('pwa').tap(args => {
       return [pwaArgs]
