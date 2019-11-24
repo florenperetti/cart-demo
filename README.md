@@ -1,5 +1,7 @@
 # cart-demo
 
+Shopping cart demo app (vue, vuex, vue-router). Use the live demo [here](https://florenperetti.github.io/cart-demo/).
+
 ## Project setup
 ```
 npm install
