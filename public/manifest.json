@@ -1,0 +1,8 @@
+{
+  "name": "CartDemo",
+  "theme_color": "#1090f9",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
