@@ -1,6 +1,6 @@
 const PRODUCTS = [
   { 'id': 1, 'title': 'Gameboy', 'price': 9.99, 'src': 'gameboy.jpg', 'description': 'Nintendo handheld video game console released in 1989.' },
-  { 'id': 2, 'title': 'Camera Recorder', 'price': 15.00, 'src': 'camera-rec.jpg', 'description': 'Portable electronic recording device capable of recording live-motion video and audio for later playback.' },
+  { 'id': 2, 'title': 'TV Remote Control', 'price': 15.00, 'src': 'remote.jpg', 'description': 'Electronic device used to operate another device from a distance, usually wirelessly. A remote control is primarily a convenience feature for the user, and can allow operation of devices that are out of convenient reach for direct operation of controls.' },
   { 'id': 3, 'title': 'NES Controller', 'price': 2.99, 'src': 'nes-controler.jpg', 'description': 'The Nintendo Entertainment System controller is an oblong brick-like design with a simple four button layout.' },
   { 'id': 4, 'title': 'Radio', 'price': 6.29, 'src': 'radio.jpg', 'description': 'Electronic device that receives radio waves and converts the information carried by them to a usable form.' },
   { 'id': 5, 'title': 'White Keyboard', 'price': 2.00, 'src': 'keyboard.jpg', 'description': 'Input device used to enter characters and functions into the computer system by pressing buttons, or keys. It is the primary device used to enter text.' },
