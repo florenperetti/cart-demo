@@ -1,6 +1,6 @@
 # cart-demo
 
-Shopping cart demo app (vue, vuex, vue-router). Use the live demo [here](https://florenperetti.github.io/cart-demo/).
+Shopping cart demo app (vue, vuex, vue-router). Use the live demo [here](https://florenperetti.github.io/cart-demo/). Project made with Vue cli with the PWA template.
 
 ## Project setup
 ```
